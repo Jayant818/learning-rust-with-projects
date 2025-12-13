@@ -1,0 +1,1 @@
+create a CLI tool that takes a list of 3 "websites" (strings), checks them all at the same time (threads), and updates a shared counter of how many are "UP".
